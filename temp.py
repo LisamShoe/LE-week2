@@ -6,5 +6,6 @@ This is a temporary script file.
 """
 
 a = 1
+b = 5
 
-print(a)
+print(b)
